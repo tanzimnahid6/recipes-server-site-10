@@ -1,0 +1,275 @@
+
+[
+    {
+      "id": 1,
+      "chef_name": "Masud Rahman ",
+      "like":34,
+      "chef_picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg?fbclid=IwAR3D_Yton3LvJm7SlhN_uJ6e7KxCNpMj3tgvb20slQkr4tLoRIGxxMbhQLE",
+      "years_of_experience": 15,
+      "num_recipes": 50,
+      "chef_description": "Chef Masud Rahman  is a well-known culinary expert in Bangladesh. With over 15 years of experience in the industry, he has perfected the art of cooking traditional Bangladeshi dishes. He is also a cookbook author and runs his own cooking school.",
+      "recipes": [
+        {
+          "recipe_name": "Biriyani",
+          "ingredients": ["rice", "meat", "onion", "ginger", "garlic", "spices"],
+          "cooking_method": "Cook rice with spices separately, fry meat with onions and spices, layer rice and meat and cook on low heat for 30-40 minutes",
+          "ratings": 4.5
+        },
+        {
+          "recipe_name": "Kacchi Biryani",
+          "ingredients": [
+            "marinated meat",
+            "basmati rice",
+            "spices",
+            "saffron",
+            "yogurt"
+          ],
+          "cooking_method": "Layer marinated meat and rice, cook on low heat with saffron and yogurt for 40-50 minutes",
+          "ratings": 4.7
+        },
+        {
+          "recipe_name": "Fuchka",
+          "ingredients": [
+            "semolina flour",
+            "potatoes",
+            "chickpeas",
+            "tamarind paste",
+            "spices"
+          ],
+          "cooking_method": "Make small, crispy cups out of semolina flour, fill with mashed potatoes and chickpeas, top with tamarind paste and spices",
+          "ratings": 4.8
+        }
+      ]
+    },
+  
+    {
+      "id": 2,
+      "like":134,
+      "chef_name": "Sadia Dehlvi",
+      "chef_picture": "https://media.licdn.com/dms/image/C5603AQFYhfbTnMPVHQ/profile-displayphoto-shrink_800_800/0/1621716029075?e=2147483647&v=beta&t=z-_-hsO2d9ubuP16sfQB_s1FZ02g2j01DeGGTmp3nvs",
+      "years_of_experience": 20,
+      "num_recipes": 100,
+      "chef_description": "Chef Sadia Dehlvi is a well-respected culinary expert in Bangladesh. She has been in the industry for over 20 years and has received numerous awards for her innovative and delicious dishes. She is also a frequent guest on cooking shows and runs her own restaurant.",
+      "recipes": [
+        {
+          "recipe_name": "Shorshe Ilish",
+          "ingredients": [
+            "hilsa fish",
+            "mustard oil",
+            "mustard paste",
+            "green chili",
+            "turmeric",
+            "salt"
+          ],
+          "cooking_method": "Marinate fish with mustard paste, turmeric and salt, heat mustard oil in a pan, add green chili and fry fish in it for 10-15 minutes",
+          "ratings": 4.9
+        },
+        {
+          "recipe_name": "Beef Bhuna",
+          "ingredients": [
+            "beef",
+            "onion",
+            "garlic",
+            "ginger",
+            "spices",
+            "tomato"
+          ],
+          "cooking_method": "Fry onion, garlic and ginger, add beef and spices, cook until beef is browned, add tomato and cook until it forms a thick gravy",
+          "ratings": 4.6
+        },
+        {
+          "recipe_name": "Pitha",
+          "ingredients": [
+            "rice flour",
+            "coconut",
+            "jaggery",
+            "sesame seeds",
+            "cardamom",
+            "water"
+          ],
+          "cooking_method": "Make dough with rice flour and water, make small flatbreads and fill with a mixture of coconut, jaggery and cardamom, steam for 15-20 minutes, top with sesame seeds",
+          "ratings": 4.7
+        }
+      ]
+    },
+  
+    {
+      "id": 3,
+      "like":84,
+      "chef_name": "Nadim Hussain",
+      "chef_picture": "https://iexaminer.org/wp-content/uploads/2019/03/Uddin-2-web.jpg?fbclid=IwAR2EBdiOeK7yZp1gr_ETQLiTGMo_ZsWlWXLarRcASQ1a4I4Id0YF1wHvfIA",
+      "years_of_experience": 12,
+      "num_recipes": 50,
+      "chef_description": "Nadim Hussain is a talented Bangladeshi chef who has been creating delicious recipes for over a decade. He is known for his innovative and flavorful dishes, and is always experimenting with new ingredients and techniques.",
+      "recipes": [
+        {
+          "recipe_name": "Chicken Korma",
+          "ingredients": [
+            "chicken",
+            "yogurt",
+            "onion",
+            "garlic",
+            "ginger",
+            "spices"
+          ],
+          "cooking_method": "Marinate chicken in yogurt, heat oil in a pan and fry onion, garlic, and ginger, add marinated chicken and spices, cook until chicken is tender",
+          "ratings": 4.5
+        },
+        {
+          "recipe_name": "Lentil Soup",
+          "ingredients": [
+            "red lentils",
+            "onion",
+            "garlic",
+            "ginger",
+            "turmeric",
+            "coriander"
+          ],
+          "cooking_method": "Boil red lentils, heat oil in a pan and fry onion, garlic, and ginger, add boiled lentils, turmeric and coriander, cook for 10-15 minutes",
+          "ratings": 4.2
+        },
+        {
+          "recipe_name": "Chapli Kabab",
+          "ingredients": ["beef", "onion", "tomato", "egg", "flour", "spices"],
+          "cooking_method": "Mix beef, onion, tomato, egg, flour, and spices, make small flat kababs, fry until browned",
+          "ratings": 4.8
+        }
+      ]
+    },
+  
+    {
+      "id": 4,
+      "like":384,
+      "chef_name": "Sadman Rakib",
+      "chef_picture": "https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2021/05/21/image1_2_0.jpeg",
+      "years_of_experience": 20,
+      "num_recipes": 100,
+      "chef_description": "Sadman Rakib is a renowned Bangladeshi chef and food writer. He has over two decades of experience in the culinary arts and is known for his traditional and authentic Bangladeshi recipes. His recipes are always bursting with flavor and are a true representation of Bangladeshi cuisine.",
+      "recipes": [
+        {
+          "recipe_name": "Biryani",
+          "ingredients": [
+            "basmati rice",
+            "chicken",
+            "onion",
+            "yogurt",
+            "tomato",
+            "spices"
+          ],
+          "cooking_method": "Marinate chicken in yogurt, cook basmati rice, heat oil in a pan and fry onion, add marinated chicken and spices, layer rice and chicken in a pot, cook on low heat for 20-25 minutes",
+          "ratings": 4.2
+        },
+        {
+          "recipe_name": "Chana Masala",
+          "ingredients": [
+            "chickpeas",
+            "onion",
+            "tomato",
+            "garlic",
+            "ginger",
+            "spices"
+          ],
+          "cooking_method": "Soak chickpeas overnight, cook chickpeas, heat oil in a pan and fry onion, garlic, and ginger, add tomato and spices, add cooked chickpeas, cook for 10-15 minutes",
+          "ratings": 4.4
+        },
+        {
+          "recipe_name": "Mango Lassi",
+          "ingredients": ["ripe mango", "yogurt", "sugar", "cardamom", "ice"],
+          "cooking_method": "Blend ripe mango, yogurt, sugar, and cardamom, add ice and blend again until smooth",
+          "ratings": 4.2
+        }
+      ]
+    },
+  
+    {
+      "id": 5,
+      "like":40,
+      "chef_name": "Romy Gill",
+      "chef_picture": "https://images.hindustantimes.com/rf/image_size_800x600/HT/p2/2016/03/04/Pictures/_ea51e8da-e1f0-11e5-9948-13623a58218c.jpg",
+      "years_of_experience": 15,
+      "num_recipes": 75,
+      "chef_description": "Romy Gill is a Bangladeshi-born chef and restaurateur based in the UK. She is known for her modern take on traditional Bangladeshi cuisine and has been featured in several prominent publications. Her recipes often incorporate locally-sourced ingredients and showcase the rich and diverse flavors of Bangladeshi food.",
+      "recipes": [
+        {
+          "recipe_name": "Fish Curry",
+          "ingredients": [
+            "fish",
+            "onion",
+            "garlic",
+            "ginger",
+            "tomato",
+            "spices"
+          ],
+          "cooking_method": "Heat oil in a pan and fry onion, garlic, and ginger, add tomato and spices, add fish, cook for 10-15 minutes",
+          "ratings": 4.5
+        },
+        {
+          "recipe_name": "Shorshe Ilish",
+          "ingredients": [
+            "hilsa fish",
+            "mustard paste",
+            "turmeric",
+            "green chillies"
+          ],
+          "cooking_method": "Marinate hilsa fish in mustard paste, turmeric, and green chillies, steam the fish for 10-15 minutes",
+          "ratings": 4.3
+        },
+        {
+          "recipe_name": "Lauki Kofta",
+          "ingredients": [
+            "bottle gourd",
+            "gram flour",
+            "onion",
+            "tomato",
+            "spices"
+          ],
+          "cooking_method": "Grate bottle gourd, mix with gram flour and spices, form into balls, fry in oil until golden brown, heat oil in a pan and fry onion and tomato, add kofta balls and cook for 10-15 minutes",
+          "ratings": 4.2
+        }
+      ]
+    },
+  
+    {
+      "id": 6,
+      "like":34,
+      "chef_name": "Nazmin Hassan",
+      "chef_picture": "https://media.shilpaahuja.com/wp-content/uploads/2020/10/Chef-Shravan-Kumar..jpg",
+      "years_of_experience": 10,
+      "num_recipes": 50,
+      "chef_description": "Nazmin Hassan is a Bangladeshi chef based in New York City. She specializes in fusion cuisine that blends Bangladeshi flavors with Western cooking techniques. She has worked in several Michelin-starred restaurants and has won numerous awards for her innovative dishes.",
+      "recipes": [
+        {
+          "recipe_name": "Chingri Malai Curry",
+          "ingredients": [
+            "prawns",
+            "coconut milk",
+            "onion",
+            "garlic",
+            "ginger",
+            "spices"
+          ],
+          "cooking_method": "Heat oil in a pan and fry onion, garlic, and ginger, add spices, add prawns, cook for a few minutes, add coconut milk, cook for 10-15 minutes",
+          "ratings": 4.2
+        },
+        {
+          "recipe_name": "Biryani",
+          "ingredients": [
+            "rice",
+            "chicken",
+            "onion",
+            "garlic",
+            "ginger",
+            "spices"
+          ],
+          "cooking_method": "Marinate chicken in spices, heat oil in a pan and fry onion, garlic, and ginger, add chicken and cook until golden brown, boil rice, layer chicken and rice, and cook in the oven for 30-45 minutes",
+          "ratings": 4.3
+        },
+        {
+          "recipe_name": "Shahi Tukra",
+          "ingredients": ["bread", "milk", "sugar", "saffron", "pistachios"],
+          "cooking_method": "Fry bread slices in ghee until golden brown, heat milk in a pan and add sugar, saffron, and pistachios, let it simmer for a few minutes, pour the milk mixture over the bread slices",
+          "ratings": 3.8
+        }
+      ]
+    }
+  ]
